@@ -1,4 +1,4 @@
-## Machine Learning Projects
+## Machine Learning Projects 🤖🗂✔
 
 This is a repository for adding various kinds of Machine Learning Projects. Well mostly i created it for my own practice purposes but everyone is free to contribute here. 
 
