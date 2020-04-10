@@ -1,4 +1,4 @@
-## Machine Learning mini-Project on a Venture Capitalist Fund Problem
+## Machine Learning mini-Project on a Venture Capitalist Fund Problem 📈📉
 A Venture capitalist fund has provided us with a dataset of 50 companies and has tasked us with the goal to determine about investing in which companies will offer them the maximum profit.
 
 ## Motivation
@@ -10,6 +10,7 @@ Why this project exists is mostly because of me trying to implement the the ML a
 
 <b>Built with</b>
 - [Python](https://python.org)
+- [RStudio](https://rstudio.com)
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
