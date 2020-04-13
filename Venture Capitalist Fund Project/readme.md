@@ -1,4 +1,4 @@
-## Machine Learning mini-Project on a Venture Capitalist Fund Problem 📈📉
+# Machine Learning mini-Project on a Venture Capitalist Fund Problem 📈📉
 A Venture capitalist fund has provided us with a dataset of 50 companies and has tasked us with the goal to determine about investing in which companies will offer them the maximum profit.
 
 ## Motivation
